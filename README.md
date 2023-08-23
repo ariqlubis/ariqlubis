@@ -1,15 +1,4 @@
 ### Hi! 👋 I'm Ariq.
-  
-### Github Statistic
-<p align="left">
-<a href="https://github.com/ariqlubis">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariqlubis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariqlubis&layout=compact&langs_count=8&theme=dark"/>
-</a>
-</p>
-
-
-### Hi! 👋 I'm Ariq.
 
 - 🌱 I’m currently learning about Machine Learning Operations
 - 📫 How to reach me: ariqf.lubis@gmail.com
