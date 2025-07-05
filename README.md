@@ -26,16 +26,6 @@ Hey there! I'm **Ariq**, a ML/LLM explorer who thrives on solving problems using
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariqlubis&show_icons=true&theme=gruvbox&count_private=true&layout=compact" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ariqlubis&theme=gruvbox&border_radius=4.5" width="48%" />
-</div>
-
-
----
-
 ### 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ariqlubis)
